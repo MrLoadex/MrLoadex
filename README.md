@@ -1,1 +1,1 @@
-- 👋 Hi, Repositorio para almacenar todos los trabajos de System Analyst de segundo año (2023).
+- 👋 Hi
