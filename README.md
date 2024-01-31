@@ -1,1 +1,1 @@
-- 👋 Hi
+- 👋 Hello, I am a systems analyst student and also a game designer.
