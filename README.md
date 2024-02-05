@@ -12,7 +12,7 @@
 
 <!--- banner -->
 <div align="center">
-  <img  src="https://github.com/MrLoadex/MrLoadex/blob/main/resources/NewBanner.png?raw=true?raw=true"
+  <img  src="https://github.com/MrLoadex/MrLoadex/blob/main/resources/GameDevBanner.png?raw=true?raw=true"
        alt="Banner" /></a>
 </div>
 
