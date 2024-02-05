@@ -4,7 +4,7 @@
 <!--- banner -->
 <div align="center">
   <img  src="https://github.com/MrLoadex/MrLoadex/blob/main/resources/GameDevBanner.png?raw=true?raw=true"
-       alt="Banner" /></a>
+       alt="Banner" style="width: 100%;"  /></a>
 </div>
 
 <!--h2 without bottom border-->
