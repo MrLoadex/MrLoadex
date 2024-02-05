@@ -12,8 +12,8 @@
 
 <!--- banner -->
 <div align="center">
-  <img  src="https://github.com/MrLoadex/MrLoadex/blob/main/resources/Banner.png?raw=true"
-       alt="snake" /></a>
+  <img  src="https://github.com/MrLoadex/MrLoadex/blob/main/resources/NewBanner.png?raw=true?raw=true"
+       alt="Banner" /></a>
 </div>
 
 
