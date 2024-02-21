@@ -22,7 +22,7 @@
 
 - ☁️ I have great interest in computing in general and especially in video game programming and design.
 
-- 💬 Ask me about video **game engines, Blender, c#, c++, python, javascript**
+- 💬 Ask me about video **game engines, Blender, c#, c++**
 
 - 📫 Feel free to contact me: **Loadexx@gmail.com**
 
