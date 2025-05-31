@@ -16,15 +16,15 @@
 
 
 <!--Intro start-->
-- 🔭 I🔭 I am currently working on **Unity, C# and Blender**
+- 🔭 I🔭 I am currently working on **Unity and C#**
 
 - 🌱 I am currently learning how to build **scalable video games.** I am also a **Systems Analyst student.**
 
 - ☁️ I have great interest in computing in general and especially in video game programming and design.
 
-- 💬 Ask me about video **game engines, Blender, c#, c++**
+- 💬 Ask me about video **game engines, software Develop, c# and c++**
 
-- 📫 Feel free to contact me: **Loadexx@gmail.com**
+- 📫 Feel free to contact me: **Juli.gamedev@gmail.com**
 
 <!--Intro end-->
 
@@ -73,7 +73,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,js,py,vscode,unity,blender,github,git,ps,docker,mysql,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,py,vscode,unity,github,git,ps,docker,mysql,nodejs&perline=14" />
   </a>
 </p>
 
